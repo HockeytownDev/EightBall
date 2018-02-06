@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">EightBall</string>
+    <string name="title">Take a guess, any guess. Hopefully it isn\'t wrong!</string>
+</resources>
